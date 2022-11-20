@@ -1,0 +1,13 @@
+*{
+  text-align: center;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* border: 1px solid black; */
+}
+.scroll::-webkit-scrollbar {
+  width: 4px;
+}
+.scroll::-webkit-scrollbar-thumb {
+  background-color: #CED0D1;
+}
